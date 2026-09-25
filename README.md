@@ -24,7 +24,7 @@ Estudiante de **Tecnólogo en Informática** en UTEC (Uruguay). Me interesa tant
 
 ## Idiomas
 
-Español (nativo) · Inglés (intermedio, en curso)
+Español (nativo) · Inglés (intermedio, en curso) · Portugués (básico)
 
 ## Contacto
 
