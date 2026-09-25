@@ -25,3 +25,7 @@ Estudiante de **Tecnólogo en Informática** en UTEC (Uruguay). Me interesa tant
 ## Idiomas
 
 Español (nativo) · Inglés (intermedio, en curso)
+
+## Contacto
+
+[LinkedIn](https://www.linkedin.com/in/paloma-cabrera-87a60b234)
